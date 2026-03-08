@@ -35,4 +35,4 @@ Password must contain at least one symbol
 - Python
 
 ## Author
-Nima Bahrami
+Mohammadhosein(Nima) Bahrami
