@@ -16,7 +16,7 @@ for port in ports:
     
         if result == 0:
             print(f"Port {port} ({ports[port]}) is open")
-
+            found_open = True
     except:
         print("Error connecting...")
 if not found_open:
